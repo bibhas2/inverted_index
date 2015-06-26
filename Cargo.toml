@@ -1,0 +1,4 @@
+[package]
+name = "inverted_index"
+version = "0.1.0"
+authors = ["Bibhas Bhattacharya <bibhas2@gmail.com>"]
